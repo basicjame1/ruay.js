@@ -1,0 +1,24 @@
+{
+    "name": "ruay_.at_login",
+    "version": "1.5.1",
+    "description": "สมัครเว็บรวย เว็บรวยหวยออนไลน์ สมัครเข้าเล่นฟรี",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/basicjame1/ruay.js.git"
+    },
+    "keywords": [
+        "ruay",
+        "เว็บรวย",
+        "สมัครหวยออนไลน์"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/basicjame1/ruay.js/issues"
+    },
+    "homepage": "https://github.com/basicjame1/ruay.js#readme"
+}
