@@ -1,6 +1,6 @@
 {
     "name": "ruay_at_login",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "สมัครเว็บรวย เว็บรวยหวยออนไลน์ สมัครเข้าเล่นฟรี",
     "main": "index.js",
     "scripts": {
